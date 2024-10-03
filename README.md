@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshrajbhar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshrajbhar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshrajbhar" alt="jayeshrajbhar" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayeshRajbhar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Cloud Services and Generative AI technologies.**
 
